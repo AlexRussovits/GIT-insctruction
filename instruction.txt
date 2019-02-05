@@ -34,5 +34,8 @@
 	git clone htpps://github.com/<yourlogin>/<yourreponame.git>
 16. Как вытянуть изменения из удалённого репозитория в локальный
 	git pull origin master
-	
+17. git checkout
+18. git branch
+19. git checkout branch название ветки
+
  
